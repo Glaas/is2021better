@@ -1,0 +1,46 @@
+div.topContent {
+    margin-left: auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1 {
+    font-size: 160px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    margin-bottom: 0;
+}
+
+h3 {
+    
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-self: auto;
+    font-weight:bolder;
+    font-style: italic;
+
+}
+
+
+ul {
+    margin-left: auto;
+    text-align: center;
+    list-style-type: disc;
+    list-style-position: inside;
+    margin: 5px;
+    column-count: 3;
+}
+
+#month {
+    font-style: normal;
+    font-weight: bolder;
+}
+
+#table {
+    margin-left: 20%;
+}
+li{
+    padding-left: 20px;
+    text-align: left;
+    
+}
